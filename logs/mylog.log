@@ -1,0 +1,8 @@
+[INFO ] 2024-02-09 23:25:30.772 [main] LoggerDemo - for info only
+[DEBUG] 2024-02-09 23:25:30.774 [main] LoggerDemo - for debug
+[ERROR] 2024-02-09 23:25:30.774 [main] LoggerDemo - error message
+[WARN ] 2024-02-09 23:25:30.774 [main] LoggerDemo - warning message
+[INFO ] 2024-02-11 16:48:47.511 [main] LoggerDemo - for info only
+[DEBUG] 2024-02-11 16:48:47.514 [main] LoggerDemo - for debug
+[ERROR] 2024-02-11 16:48:47.514 [main] LoggerDemo - error message
+[WARN ] 2024-02-11 16:48:47.515 [main] LoggerDemo - warning message

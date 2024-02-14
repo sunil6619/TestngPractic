@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<!--    <parameter name="i" value="9"></parameter>-->
+<!--    <parameter name="j" value="6"></parameter>-->
+<!--    <test thread-count="5" name="Test">-->
+<!--        <parameter name="Softwarename" value="Eclipse"></parameter>-->
+<!--        <groups>-->
+<!--         <run>-->
+<!--             <include name="Test1demo"></include>-->
+
+<!--         </run>-->
+
+<!--        </groups>-->
+<!--        <classes>-->
+<!--            <class name="Testngpract.TestngDemo"></class>-->
+<!--            <methods>-->
+<!--                <exclude name="verify.*"></exclude>-->
+<!--            </methods>-->
+<!--                <class name="Testngpract.Demo1">-->
+<!--            </class>-->
+<!--        </classes>-->
+<!--    </test> &lt;!&ndash; Test &ndash;&gt;-->
+<!--    <test thread-count="5" name="Test22">-->
+<!--        <parameter name="i" value="9"></parameter>&ndash;&gt;-->
+<!--        <parameter name="j" value="6"></parameter>-->
+<!--    <classes>-->
+<!--        <class name="Testngpract.TestngParameterDemo">-->
+<!--        </class >-->
+<!--    </classes>-->
+
+<!--    </test> &lt;!&ndash; Test &ndash;&gt;-->
+    <test thread-count="5" name="SearchTest">
+        <parameter name="keyword" value="Selenium"></parameter>-->
+
+        <classes>
+            <class name="Testngpract.TestngParameterDemo">
+            </class >
+        </classes>
+    </test> <!-- Test -->
+    <test thread-count="5" name="SearchTest2">
+        <parameter name="keyword" value="Java"></parameter>-->
+
+        <classes>
+            <class name="Testngpract.TestngParameterDemo">
+            </class >
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
